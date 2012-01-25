@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <compilation>
+           <brano id="1">
+           <titolo>t1</titolo>
+           <autore>a1</autore>
+           <genere>g1</genere>
+     
+     </brano>
+
+           <brano id="2">
+           <titolo>t2</titolo>
+           <autore>a2</autore>
+           <genere>g2</genere>
+     
+     </brano>
+
+           <brano id="3">
+           <titolo>t3</titolo>
+           <autore>a3</autore>
+           <genere>g3</genere>
+    
+    </brano>
+
+</compilation>
+
+</LinearLayout>
